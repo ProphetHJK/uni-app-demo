@@ -17,6 +17,12 @@
 			"style": {
 				"navigationBarTitleText": "account"
 			}
+		},
+		{
+			"path": "pages/user/login",
+			"style": {
+				"navigationBarTitleText": "account"
+			}
 		}
 	],
 	"tabBar": {
